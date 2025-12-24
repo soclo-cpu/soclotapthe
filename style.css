@@ -18,8 +18,8 @@ header {
 }
 .flex-container > div:nth-child(1),
 .flex-container > div:nth-child(3) {
-  flex: 20%; 
+  flex: 30%; 
 }
 .flex-container > div:nth-child(2) {
-  flex: 60%; 
+  flex: 70%; 
 }
